@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Dave McCabe
+email:       davemccabe@gmail.com
+author:      Dave McCabe
+description: "Dave McCabe is a holistic software developer in Portland, Oregon."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://defn.it"
 
 # Google analytics
 google_analytics:
